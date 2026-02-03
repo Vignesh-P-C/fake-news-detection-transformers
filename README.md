@@ -6,6 +6,14 @@ Transformer-based models such as BERT / DistilBERT.
 ## Project Status
 🚧 Setup and environment configuration in progress.
 
+## 📊 Project Scope Presentation
+
+A presentation explaining the problem statement, motivation, Scope
+and planned methodology for fake news detection.
+
+👉 [Download Presentation](presentation/Understanding-Fake-News-Cassification-System-and-Project-Scope-of-my-Model.pptx)
+
+
 ## Tech Stack
 - Python
 - PyTorch
